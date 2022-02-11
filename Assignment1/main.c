@@ -3,7 +3,6 @@
 // Assignment 1
 // Feb. 2022
 
-#include "main.h"
 #include "queue.h"
 #include <stdio.h>
 #include <stdlib.h>
